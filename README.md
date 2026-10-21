@@ -38,3 +38,6 @@ Data cleaning, data modeling, DAX, KPI tracking, dashboard design, trend analysi
 
 ## Project Status
 Portfolio project developed for Power BI practice and demonstration.
+## Dashboard Preview
+
+![Change Request Management Dashboard](dashboard-screenshot.png)
