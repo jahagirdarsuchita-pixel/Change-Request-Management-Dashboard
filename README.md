@@ -102,4 +102,4 @@ This is a portfolio project created for educational and demonstration purposes. 
 Portfolio project developed for Power BI practice and demonstration.
 ## Dashboard Preview
 
-![Change Request Management Dashboard](dashboard-screenshot.png)
+CR Management Dashboard.PNG
