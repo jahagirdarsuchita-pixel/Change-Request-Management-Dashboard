@@ -45,10 +45,7 @@ Highlights departments where approval actions are pending.
 ### 5. Monthly CR Volume Trend
 Tracks the number of Change Requests received over time.
 
-### 6. Status-wise Disputed Amount
-Compares the total disputed amount across CR statuses.
-
-### 7. Interactive Filters
+### 6. Interactive Filters
 - Line of Business (LoB)
 - CR Type
 - CR Received Date
@@ -102,4 +99,4 @@ This is a portfolio project created for educational and demonstration purposes. 
 Portfolio project developed for Power BI practice and demonstration.
 ## Dashboard Preview
 
-CR Management Dashboard.PNG
+Change Request Management Dashboard.pbix
